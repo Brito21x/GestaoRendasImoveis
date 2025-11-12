@@ -1,0 +1,14 @@
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\bin\Debug\net8.0\GestãoRendasImóveis.exe
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\bin\Debug\net8.0\GestãoRendasImóveis.deps.json
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\bin\Debug\net8.0\GestãoRendasImóveis.runtimeconfig.json
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\bin\Debug\net8.0\GestãoRendasImóveis.dll
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\bin\Debug\net8.0\GestãoRendasImóveis.pdb
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.dll
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\refint\GestãoRendasImóveis.dll
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.pdb
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\GestãoRendasImóveis.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Área de Trabalho\trabalhoPOO_29330_Fase1\GestãoRendasImóveis\obj\Debug\net8.0\ref\GestãoRendasImóveis.dll
