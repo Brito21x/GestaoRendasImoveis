@@ -10,10 +10,10 @@ namespace GestãoRendasImóveis
     {
         #region Atributos
 
-        private int idRecibo;
-        private int idContrato;
-        private DateTime dataEmissao;
-        private decimal valorPago;
+        int idRecibo;
+        int idContrato;
+        DateTime dataEmissao;
+        decimal valorPago;
 
         #endregion
 
