@@ -17,7 +17,6 @@ namespace GestãoRendasImóveis
             inquilino1.MostrarInfoInquilino();
             imovel1.MostrarInfoImovel();
             renda1.MostrarInfoRenda();
-            renda1.PagarRenda();
             recibo1.MostrarInfoRecibo();
             
 
